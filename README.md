@@ -1,7 +1,14 @@
 
 
-Simple Macro Program...
+Simple Macro
+=====================
 
-조금은 한국어로 되어있습니다.
+간단하게 키보드와 마우스의 움직임을 받는 프로그램입니다.
 
-미흡하게 짜서 부족한 부분이 많습니다. 도와주시면 감사하겠습니다.
+주의 : 실력이 형편없어 매우 마구 짰습니다..
+
+
+## 사용한 라이브러리 ##
+
+Windows-User-Action-Hook
+https://github.com/justcoding121/Windows-User-Action-Hook
